@@ -1,23 +1,48 @@
 ---
-title: Introduction
+title: Start here
 order: 0
 ---
 
-## Welcome to the Free Code Camp Wiki!
+## If you're new to Free Code Camp, or just new to the wiki, start here:
 
-Our open source community's Wiki focuses on answering your questions about learning to code and getting a coding job. We also cover in detail our:
-- Curriculum
-- Local Campsite Communities
-- Nonprofit Projects
+### Curriculum
 
-![An illustration of CamperBot](http://i.imgur.com/gyJwzkx.png)
+* [What you will learn, and in what sequence you will learn it](https://github.com/FreeCodeCamp/FreeCodeCamp/wiki/What-you-will-learn,-and-in-what-sequence-you-will-learn-it)
 
-The best way to access this wiki is via [CamperBot](https://github.com/FreeCodeCamp/FreeCodeCamp/wiki/camperbot), located in our Gitter channels. CamperBot is a community designed tool useful for accessing our wiki content without ever leaving Gitter.
+* [How long does Free Code Camp take?](https://github.com/FreeCodeCamp/FreeCodeCamp/wiki/How-Long-Free-Code-Camp-Takes)
 
-To contribute a wiki article for any of the bonfires, please use this [template](https://github.com/FreeCodeCamp/FreeCodeCamp/wiki/Bonfire-Wiki-Template). This is essential for [@CamperBot](https://github.com/camperbot) to retrieve the article. Bonfire articles that do not use this template will be removed.
+* [What are these brownie points?](https://github.com/FreeCodeCamp/FreeCodeCamp/wiki/Brownie-Points)
 
-You will then need to clone the [wiki](https://github.com/FreeCodeCamp/wiki) and create a branch where you will make your changes and submmit a pull request to be merged before the changes goes live on the wiki. This is to filter any spam content or damage to **our** wiki.
+* [The Front End Development Certificate](https://github.com/FreeCodeCamp/FreeCodeCamp/wiki/Free-Code-Camp-Front-End-Development-Certificate)
 
-If you have questions about contributing to the Free Code Camp Wiki message [@Rafase282 in Gitter](https://gitter.im/Rafase282).
+* [The Full Stack Development Certificate](https://github.com/FreeCodeCamp/FreeCodeCamp/wiki/Free-Code-Camp-Full-Stack-Development-Certificate)
 
-We look forward to collaborating with you on expanding and improving this wiki!
+* [Guide to Basejumps](https://github.com/FreeCodeCamp/FreeCodeCamp/wiki/Guide-to-Basejumps-Table-of-Contents)
+
+* [Basejump Resources](https://github.com/FreeCodeCamp/FreeCodeCamp/wiki/Basejump-Resources)
+
+* [Why JavaScript?](https://github.com/FreeCodeCamp/FreeCodeCamp/wiki/Why-does-Free-Code-Camp-use-JavaScript-instead-of-Ruby-or-Python)
+
+### Community
+
+* [Code of Conduct](https://github.com/FreeCodeCamp/FreeCodeCamp/wiki/Code-of-Conduct)
+
+* [Camper News](https://github.com/FreeCodeCamp/FreeCodeCamp/wiki/Camper-News)
+
+* [Campsites](https://github.com/FreeCodeCamp/FreeCodeCamp/wiki/Campsites)
+
+* [Official Chat Rooms](https://github.com/FreeCodeCamp/FreeCodeCamp/wiki/Official-Free-Code-Camp-Chat-Rooms)
+
+* [How to use CamperBot](https://github.com/FreeCodeCamp/FreeCodeCamp/wiki/camperbot)
+
+* [Join the LinkedIn Community and Find Alumni](https://github.com/FreeCodeCamp/FreeCodeCamp/wiki/How-to-add-Free-Code-Camp-to-my-LinkedIn-profile)
+
+* [Stream your Coding Session on our Twitch.tv page](https://github.com/FreeCodeCamp/FreeCodeCamp/wiki/How-you-can-stream-your-live-coding-sessions-on-the-Free-Code-Camp-Twitch.tv-channel)
+
+### Nonprofit 
+
+* [How Nonprofit Projects Work](https://github.com/FreeCodeCamp/FreeCodeCamp/wiki/How-FreeCodeCamp-Nonprofit-Projects-work)
+
+* [Natural Language Requirements](https://github.com/FreeCodeCamp/FreeCodeCamp/wiki/Free-Code-Camp-completion-language-requirements)
+
+* [Resources that Free Code Camp recommends to Nonprofits Who Don't Qualify](https://github.com/FreeCodeCamp/FreeCodeCamp/wiki/Other-resources-that-Free-Code-Camp-recommends-to-nonprofits)

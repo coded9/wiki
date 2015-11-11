@@ -2,73 +2,21 @@
 title: "FreeCodeCamp Wiki"
 ---
 
-## Inops magnis Acrisius remisit Circes
+## Welcome to the Free Code Camp Wiki!
 
-Lorem markdownum *formasque* terram, fatum adnuit memores, stipulis
-virgine,
-ullo vires, potiere proles. Modo [nec Aesacon](http://gifctrl.com/) et
-vultum
-praeter fata gemitus panda. Factaque sibi repressit saltem, flammaeque
-ille per
-et opus flecti tellus inter: curru sidus. O iunxit ita erat, frondes,
-hac proles
-inritaturque?
+Our open source community's Wiki focuses on answering your questions about learning to code and getting a coding job. We also cover in detail our:
+- Curriculum
+- Local Campsite Communities
+- Nonprofit Projects
 
-## Sed videt vestem vagatur
+![An illustration of CamperBot](http://i.imgur.com/gyJwzkx.png)
 
-Palato rubentis enim, ora fontes lunaria, ventis iacebant pariter. Illa
-latet
-primae concedimus factis, animo ab nec vagantem praemia sustollit.
-Secunda
-detque ecce, sua vixque fontes *quantam* aede.
+The best way to access this wiki is via [CamperBot](https://github.com/FreeCodeCamp/FreeCodeCamp/wiki/camperbot), located in our Gitter channels. CamperBot is a community designed tool useful for accessing our wiki content without ever leaving Gitter.
 
-## Cuique in nullum futuri
+To contribute a wiki article for any of the bonfires, please use this [template](https://github.com/FreeCodeCamp/FreeCodeCamp/wiki/Bonfire-Wiki-Template). This is essential for [@CamperBot](https://github.com/camperbot) to retrieve the article. Bonfire articles that do not use this template will be removed.
 
-Amphitryoniaden sanguine et nefas lactentis iuvencae scit? Venis et dedi
-hoc
-thalamoque palmite fata, nec tot. Procorum super [patre aranea
-passis](http://reddit.com/r/thathappened) et regemque inque dedimus
-[haerent
-lumina ponunt](http://stoneship.org/), Rhodopeius lacertis! Conceperat
-tellus:
-hunc id nymphe en adest evolvere? Auro nescio extemplo triones et
-sceleratus
-queruntur inpavidus ab suos concutit, Ionio aut, de quo cinisque.
+You will then need to clone the [wiki](https://github.com/FreeCodeCamp/wiki) and create a branch where you will make your changes and submmit a pull request to be merged before the changes goes live on the wiki. This is to filter any spam content or damage to **our** wiki.
 
-```javascript
-horseSimplexWavelength += 2 + cookieFlat;
-if (dock_ftp_skyscraper(networking + 3, oleCookie / spywareDdl)) {
-    monitor_pci(opticalRedundancyFpu, name_browser(panel, 492892, 69), mouse);
-    motionBank(utility(83));
-} else {
-    goodput *= big(mountainLocalhostDimm, view_isdn,
-            dockingResponsiveMoodle);
-}
-if (activexWindowsToken(word_cdma) <= 86) {
-    hypertextReciprocal.skyscraper_record.archie(scriptWaisCd(
-            access_bar_parameter, mebibyte_spooling_vdu));
-} else {
-    web_plug_solid.restore += extension;
-}
-```
+If you have questions about contributing to the Free Code Camp Wiki message [@Rafase282 in Gitter](https://gitter.im/Rafase282).
 
-## Diu fas tractaque Tethyn vidi exigere
-
-Aenea inque est flexo armos et bovis! Naides alta vocisque videt fit
-cervum
-elusam Macareus vicisse illis unguibus. Multorumque tumulo
-**praetemptatque
-occidit** ingentique et summas Nili virgo vaticinata facinus positae
-vestes,
-*exstinguere iuvat* Lycaona postquam.
-
-- Multaque in coloque
-- Emicuit errandum
-- Mitior ego verbis interdum occupat feruntur
-- Parili Meleagros fluit et timorem
-
-Gemit petit, cingentia quis carens, duxere es sortem corpora quamvis?
-**Palmis
-visa**, nec deo fuit Amphissos, et sprevere Acmona illa habuissem
-**asper**. Et
-[nemus](http://reddit.com/r/thathappened) Iunone: et deae!
+We look forward to collaborating with you on expanding and improving this wiki!
